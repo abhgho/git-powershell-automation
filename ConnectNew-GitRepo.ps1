@@ -41,4 +41,4 @@ $gitUrl = $responseJson.html_url
 
 git remote add origin "$gitUrl.git"
 
-Write-Host "Remoe Host Added"
+Write-Host "Remoe Host Added!"
